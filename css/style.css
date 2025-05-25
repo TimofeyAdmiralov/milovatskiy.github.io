@@ -93,7 +93,9 @@ footer{
         color: transparent;
     }
     from {
-        color: #512d4e; 
+        color: #681773; 
         filter: drop-shadow(0 0 2em #4b2e49);
+        border-radius: 50%;
+        scale: 0.60;
     }
 }
