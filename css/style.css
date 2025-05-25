@@ -94,5 +94,6 @@ footer{
     }
     from {
         color: #512d4e; 
+        filter: drop-shadow(0 0 2em #4b2e49);
     }
 }
